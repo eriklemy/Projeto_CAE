@@ -2,11 +2,11 @@
 Projeto final da matéria de Computação Aplicada a Engenharia (2° período)
 
 # Integrantes: 
-    Erick Lemmy dos Santos Oliveira 
-    Leandro Ricardo Guimarães
-    Bianca Aparecida Andrade da Rocha 
-    Fernanda Goes Coelho 
-    Lorena Thatyane da Cruz Santos
+    Erick Lemmy dos Santos Oliveira     (Engenharia de Computação)
+    Leandro Ricardo Guimarães           (Engenharia de Computação)
+    Bianca Aparecida Andrade da Rocha   (Engenharia Civil)
+    Lorena Thatyane da Cruz Santos      (Engenharia Civil)
+    Fernanda Goes Coelho                (Engenharia Quimica)
     
 # Descrição Resumida
     O projeto apresentado em questão, utiliza de todos os aprendizados adquiridos
