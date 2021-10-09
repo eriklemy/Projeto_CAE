@@ -15,3 +15,4 @@ Projeto final da matéria de Computação Aplicada a Engenharia (2° período)
     gráfica, foi estruturado baseando-se em Design Pattern MVC.
 
 # Exemplos de uso e Orientações no arquivo PDF
+- PROJETO 2020 CAE_Equipe 01.pdf
